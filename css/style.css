@@ -1,0 +1,24 @@
+h1 {
+color:#618985;
+font-family:Verdana,arial;
+font-size:48px;
+}
+h2 {
+color:#96BBBB;
+font-family:Verdana,arial;
+font-size:48px;
+}
+body {
+    font-size: 23px;
+    color: #414535;
+    font-family:Times,arial;
+}
+.gauche {
+    background-color:#fffd79;
+}
+.droite {
+    background-color: #F2E3BC;
+}
+.gris {
+    background-color: #f4f6f8;
+}
